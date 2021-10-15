@@ -65,29 +65,7 @@
   flex: 3;
   order: 2;
 }
-@media screen and (orientation: portrait) and (min-width: 720px) {
 
-    nav a {
-        display: block;
-    }
-
-    #b1 {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .link-list {
-        order: 1;
-    }
-
-    .form {
-        order: 2;
-    }
-
-    .table {
-        order: 3;
-    }
-}
 .headerblock {
     width:1000%; 
     background-color:#FF6633;
