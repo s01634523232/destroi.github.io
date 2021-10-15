@@ -89,7 +89,7 @@
     }
 }
 .headerblock {
-    width:100%; 
+    width:1000%; 
     background-color:#FF6633;
     padding: 10px; 
     height:120px;
@@ -117,7 +117,7 @@
     padding:10px;
 }
 .footer {
-    width:100%; 
+    width:1000%; 
     background-color:#FF3300; 
     padding: 10px; 
     font-size: 10pt;
@@ -127,7 +127,7 @@
     margin-top:5px; 
 }
 .nav {
-    width:100%; 
+    width:1000%; 
     max-width:960px; 
     background-color: #FF6633; 
     margin: 0 auto; 
